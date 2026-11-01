@@ -1,0 +1,13 @@
+{
+  "handle": "@your_handle",
+  "code_word": "ХОЧУ",
+  "gift": "гайд",
+  "language": "ru",
+  "text_mode": "close",
+  "character_mode": "similar",
+  "similarity": "close",
+  "text_model": "gemini-3.8-flash",
+  "image_model": "gemini-3.1-flash-lite-image",
+  "check_model": "gemini-3.1-flash-lite",
+  "panels_in_one": false
+}

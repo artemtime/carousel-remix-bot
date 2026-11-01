@@ -1,0 +1,15 @@
+.env
+workspace/cache/
+__pycache__/
+*.pyc
+.venv/
+.DS_Store
+# Данные пользователя: в шаблоне продукта их нет
+workspace/settings.json
+workspace/styles/
+workspace/characters/
+workspace/output/
+workspace/mystyles/
+workspace/drafts/
+workspace/.state/
+workspace/.bot_owner

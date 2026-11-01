@@ -1,0 +1,8 @@
+.venv
+workspace/cache
+workspace/output
+workspace/styles
+workspace/characters
+.env
+.git
+tests
